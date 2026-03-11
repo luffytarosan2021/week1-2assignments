@@ -1,3 +1,5 @@
+package Username;
+
 import java.util.*;
 
 public  class UsernameAvailibilityChecker{
